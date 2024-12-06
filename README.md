@@ -1,4 +1,4 @@
-# karishmaKhadka.github.io
+# *adv GIS project*
 ## **GIS multiple plots**
 
 About the project/Objective
