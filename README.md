@@ -3,7 +3,11 @@
 
 About the project/Objective
 Codes- important one
-Results- plots
+
+**Results** 
+
+![graphic](images/Project_plot.png)
+
 More to do?
 
 
