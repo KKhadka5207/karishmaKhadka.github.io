@@ -2,6 +2,10 @@
 ## **GIS multiple plots**
 
 About the project/Objective
+- write
+- read
+- speak
+
 Codes- important one
 
 **Results** 
