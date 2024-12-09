@@ -1,12 +1,12 @@
-# *adv GIS project*
-## **GIS multiple plots**
+# *Advanced GIS final project*
+## **Multiple plots**
 
-About the project/Objective
-- write
-- read
-- speak
-
-Codes- important one
+# ***About the project***
+This project is focused on developing script for plotting different layers. The major objectives include:
+- Plotting all the layers from a file geodatabase (individual plots)
+- Plotting all the  layers in one frame in Jupyter notebook
+- Plotting all the layers in one single figure
+- Plotting all the layers in one figure and changing the legend/markers in the figure
 
 **Results** 
 
