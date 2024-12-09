@@ -9,6 +9,7 @@ This project is focused on developing script for plotting different layers. The 
 - Plotting all the layers in one figure and changing the legend/markers in the figure
 
 **Results** 
+Script to plot the layers in one figure with different markers is presented below:
 
 ![graphic](images/Project_plot.png)
 
