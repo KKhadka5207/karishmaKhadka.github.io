@@ -1,5 +1,5 @@
 # *Advanced GIS final project*
-## **Multiple plots**
+## **"Multiple plots"**
 
 # ***About the project***
 This project is focused on developing script for plotting different layers. The major objectives include:
