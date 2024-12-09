@@ -8,11 +8,10 @@ This project is focused on developing script for plotting different layers. The 
 
 ## **Results**
 Script to plot the layers in one figure with different markers is presented below:
-https://github.com/KKhadka5207/karishmaKhadka.github.io/blob/main/images/Image6.png
 
 ![graphic](images/Project_plot.png)
 
-More to do?
+
 
 
 
