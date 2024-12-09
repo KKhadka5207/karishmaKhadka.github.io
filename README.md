@@ -9,7 +9,7 @@ This project is focused on developing script for plotting different layers. The 
 ## **Results**
 Script to plot the layers in one figure with different markers is presented below:
 ![graphic](images/Image6.png)
-![graphic](images/Image7.png)
+![graphic](images/Image7 (2).png)
 ![graphic](images/Image8 (2).png)
 ![graphic](images/Project_plot.png)
 
