@@ -1,6 +1,9 @@
-# *Advanced GIS final project - "Multiple plots"*
+# *Advanced GIS project - "Multiple plots"*
 ## **About the project**
-This project is focused on developing script for plotting different layers. The major objectives include:
+This project focuses on developing a Python-based script for visualizing spatial data layers stored in a file geodatabase. The primary objectives include plotting of all layers individually to analyze each dataset separately and creating a consolidated view by plotting all layers in a single frame within a Jupyter Notebook. Additionally, the project aims to generate a single figure showcasing all layers together with customized legends and markers, enhancing clarity and differentiation among the layers. The script ensures flexibility in styling, enabling the use of distinct geometries, colors, and markers for various layers to create informative and visually appealing maps.
+
+## **Objectives**
+The specific objectives include:
 - Plotting all the layers from a file geodatabase (individual plots)
 - Plotting all the  layers in one frame in Jupyter notebook
 - Plotting all the layers in one single figure
@@ -13,5 +16,5 @@ Script to plot the layers in one figure with different markers is presented belo
 ![graphic](images/Image8.png)
 ![graphic](images/Project_plot.png)
 
-To access the full code, click below:
+To access the full code, click here:
 [**Multiple Plots Repository**](https://github.com/KarinaAnzar/GIS_Plotting.git)
