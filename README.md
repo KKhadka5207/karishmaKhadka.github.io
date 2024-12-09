@@ -9,12 +9,8 @@ This project is focused on developing script for plotting different layers. The 
 ## **Results**
 Script to plot the layers in one figure with different markers is presented below:
 ![graphic](images/Image6.png)
-![graphic](images/)
-![graphic](images/)
+![graphic](images/Image7.png)
+![graphic](images/Image8.png)
 ![graphic](images/Project_plot.png)
-
-
-
-
 
 [**My Repository Branch**](https://github.com/KarinaAnzar/GIS_Plotting.git)
