@@ -13,4 +13,5 @@ Script to plot the layers in one figure with different markers is presented belo
 ![graphic](images/Image8.png)
 ![graphic](images/Project_plot.png)
 
-[**My Repository Branch**](https://github.com/KarinaAnzar/GIS_Plotting.git)
+To access the full code, click below:
+[**Multiple Plots Repository**](https://github.com/KarinaAnzar/GIS_Plotting.git)
