@@ -21,6 +21,9 @@ An important part of the script to create a single figure integrating all layers
 ![graphic](images/Image7.png)
 ![graphic](images/Image8.png)
 
+- To access the full code of this project, click here:
+[**Multiple Plots Repository**](https://github.com/KarinaAnzar/GIS_Plotting.git)
+
 In summary, the code:
 1. Imports required libraries and sets file path and layers
 2. Creates the plot canvas and defines layer styles
@@ -34,5 +37,4 @@ In summary, the code:
 
 ![graphic](images/Project_plot.png)
 
-- To access the full code of this project, click here:
-[**Multiple Plots Repository**](https://github.com/KarinaAnzar/GIS_Plotting.git)
+
